@@ -1,0 +1,51 @@
+{
+    "seiyuu" : [
+        {
+            "img":"https://static.wikia.nocookie.net/love-live/images/2/29/Seiyuu_Profile_Photo_-_Aida_Rikako.png",
+            "name": "Member 1",
+            "detail": "Rikako Aida"
+        },
+        {
+            "img":"https://static.wikia.nocookie.net/love-live/images/e/e8/Seiyuu_Profile_Photo_-_Inami_Anju.png",
+            "name": "Member 2",
+            "detail": "Inami Anju"
+        },
+        {
+            "img":"https://static.wikia.nocookie.net/love-live/images/4/44/Seiyuu_Profile_Photo_-_Saitou_Shuka.png",
+            "name": "Member 3",
+            "detail": "Saitou Shuka"
+        },
+        {
+            "img":"https://static.wikia.nocookie.net/love-live/images/f/fa/Seiyuu_Profile_Photo_-_Takatsuki_Kanako.png",
+            "name":"Member 4",
+            "detail":"Kanako Takatsuki"
+        },
+        {
+            "img":"https://static.wikia.nocookie.net/love-live/images/0/09/Seiyuu_Profile_Photo_-_Kobayashi_Aika.png",
+            "name":"Member 5",
+            "detail":"Aika Kobayashi"
+        },
+        {
+            "img":"https://static.wikia.nocookie.net/love-live/images/c/c6/Seiyuu_Profile_Photo_-_Furihata_Ai.png",
+            "name":"Member 6",
+            "detail":"Furihata Ai"
+        },
+        {
+            "img":"https://static.wikia.nocookie.net/love-live/images/4/49/Seiyuu_Profile_Photo_-_Suzuki_Aina.png",
+            "name":"Member 7",
+            "detail":"Suzuki Aina"
+        },
+        {
+            "img":"https://static.wikia.nocookie.net/love-live/images/6/66/Seiyuu_Profile_Photo_-_Komiya_Arisa.png",
+            "name":"Member 8",
+            "detail":"Komiya Arisa"
+        },
+        {
+            "img":"https://static.wikia.nocookie.net/love-live/images/c/c4/Seiyuu_Profile_Photo_-_Suwa_Nanaka.png",
+            "name":"Member 9",
+            "detail":"Suwa Nanaka"
+        }
+        
+
+    ]
+}
